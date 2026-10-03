@@ -4,7 +4,7 @@ Personal walkthroughs for machines I've rooted — mostly HackTheBox, occasional
 
 Each box gets its own .md file, named after the box. Browse the repo file list for the full set.
 
-Format
+# Format
 
 Each writeup generally follows the same structure:
 
